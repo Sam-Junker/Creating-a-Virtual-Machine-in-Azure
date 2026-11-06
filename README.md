@@ -52,8 +52,3 @@ Congratulations you have created a Azure VM!</p>
 To access your new VM you will go to your VM tab in Azure, click on the VM you created and locate the Public IP address from the Networking section.</p>
 Now open Remote desktop on your computer and enter the Public IP address and the username and password created for your VM.</p>
 This should then start and open your new VM on your computer.</p>
-
-
-
-
-<h2>Downloading of osTicket</h2>
