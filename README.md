@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-<h1>osTicket - Creating-a-Virtual-Machine-in-Azure
+<h1>Virtual Machine- Creating-a-Virtual-Machine-in-Azure
 </h1>
 This tutorial outlines the process for creating a new Virtual Machine in Azure.<br />
 
@@ -28,7 +28,6 @@ This tutorial outlines the process for creating a new Virtual Machine in Azure.<
 First step is to create a resource group in Azure. To do this we open azure and go to the resource groups tab, and then select the +Create button. Name your group however you would like and select a region that works best for you. (I typically use East US 2). Once that is complete, select Review + Create.<p>
 
 Once you have your resource group created you can start the process for creating a VM.</p>
-
 - First go to the VM tab in Azure, then select create.</p>
 </p>
 - Make sure you have the correct subscription selected, and then select the resource group that was just created.</p>
